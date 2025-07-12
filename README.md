@@ -60,6 +60,9 @@ Right-click on `index-modern.html` and select "Open with Live Server".
 
 <img width="1876" height="901" alt="Screenshot 2025-07-12 174828" src="https://github.com/user-attachments/assets/a255c3cb-04a0-4334-9fcd-0ffc7437d498" />
 
+<img width="1918" height="863" alt="image" src="https://github.com/user-attachments/assets/de5b8892-1cba-4b9a-88b5-fda35bc060f6" />
+
+
 
 
 ## Contributing
