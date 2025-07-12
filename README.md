@@ -56,6 +56,12 @@ Right-click on `index-modern.html` and select "Open with Live Server".
 - Font Awesome icons
 - LocalStorage API
 
+## Screenshorts
+
+<img width="1876" height="901" alt="Screenshot 2025-07-12 174828" src="https://github.com/user-attachments/assets/a255c3cb-04a0-4334-9fcd-0ffc7437d498" />
+
+
+
 ## Contributing
 
 Contributions welcome! Feel free to open issues or submit pull requests.
